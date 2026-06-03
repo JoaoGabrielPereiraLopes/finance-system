@@ -69,6 +69,10 @@
 		"svelte"
 	],
 	"dependencies": {
-		"@fortawesome/fontawesome-free": "^7.2.0"
+		"@flowbite-svelte-plugins/chart": "^0.2.4",
+		"@fortawesome/fontawesome-free": "^7.2.0",
+		"apexcharts": "^5.13.0",
+		"flowbite-svelte": "^1.33.1",
+		"flowbite-svelte-icons": "^3.1.0"
 	}
 }
